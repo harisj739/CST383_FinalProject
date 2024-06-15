@@ -32,8 +32,9 @@ The results of this study can be useful for teams and analysts that may want to 
 
 ## Summary
 The most important findings from our analysis are:
-Certain key statistics, such as those where the Denver Nuggets excelled, can be predictive of NBA success. The predictors that we used included field goal percentage, 3-point percentage, 2-point percentage, defensive rebounds, assists, offensive rating, defensive rating, net rating, and effective field goal percentage.
-Our predictive models for the regular season and playoffs were able to approximate actual outcomes with relatively high accuracy. This shows the value of data science in sports analysis.
-Feature engineering and selection played a very important role in improving both the performance and accuracy of the project.
-The use of cross-validation helped in identifying the most impactful features, which could help teams and analysts find specific areas to direct more focus to.
+- Certain key statistics, such as those where the Denver Nuggets excelled, can be predictive of NBA success. The predictors that we used included field goal percentage, 3-point percentage, 2-point percentage, defensive rebounds, assists, offensive rating, defensive rating, net rating, and effective field goal percentage.
+- Our predictive models for the regular season and playoffs were able to approximate actual outcomes with relatively high accuracy. This shows the value of data science in sports analysis.
+- Feature engineering and selection played a very important role in improving both the performance and accuracy of the project.
+- The use of cross-validation helped in identifying the most impactful features, which could help teams and analysts find specific areas to direct more focus to.
 In conclusion, our project focuses on experimenting with sports analytics data and applying both statistical analysis and predictive modeling in order to understand and predict NBA team performance.
+
