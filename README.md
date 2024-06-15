@@ -13,5 +13,9 @@ The following measures were undertaken to implement feature engineering:
   6. The column Rk was removed and the column Team was set as the index. Additionally, the regular season advanced statitistics were modified to exclude the columns for opponent _**eFG%, TOV%, ORB%, and FT/FGA**_.
 ## Methods
 ## Results
+
+https://github.com/harisj739/CST383_TeamSSS_FinalProject/assets/126642844/e65e31f1-745e-40ec-bccf-134977ea6659
+
+
 ## Discussion
 ## Summary
