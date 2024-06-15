@@ -23,7 +23,7 @@ The following measures were undertaken to implement feature engineering:
     - Standard Scaler
 
 ## Results
-- Initially we determine a set of predictors relevant to an NBA team's success including field goal percentage and three-point field goal percentage. We are using these predictors to determine a team's predicted winning percentage. After splitting the data into training and testing sets we fit a linear regression model to the training set and plotted the results.
+- Initially we determined a set of predictors relevant to an NBA team's success including field goal percentage and three-point field goal percentage. We used these predictors to determine a team's predicted winning percentage. After splitting the data into training and testing sets we fit a linear regression model to the training set and plotted the results.
   
 ![NBA_demo1](https://github.com/harisj739/CST383_TeamSSS_FinalProject/assets/126642844/ab5b6d5e-7533-49f3-9969-443e921dbdf9)
 
