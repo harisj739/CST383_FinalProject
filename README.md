@@ -50,3 +50,12 @@ The most important findings from our analysis are:
 
 In conclusion, our project focuses on experimenting with sports analytics data and applying both statistical analysis and predictive modeling in order to understand and predict NBA team performance.
 
+## Contributors
+Andrew Grant, Anthony Matricia, & Haris Jilani
+
+## Dataset References
+1. https://www.basketball-reference.com/leagues/NBA_2024.html#per_game-team
+2. https://www.basketball-reference.com/playoffs/NBA_2024.html#per_game-team
+3. https://www.basketball-reference.com/leagues/NBA_2024.html#advanced-team
+4. https://www.basketball-reference.com/playoffs/NBA_2024.html#advanced-team
+
