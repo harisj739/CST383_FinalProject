@@ -12,6 +12,16 @@ The following measures were undertaken to implement feature engineering:
   5. In the _**Team**_ column, we removed the asterisks for the teams that made the playoffs.
   6. The column Rk was removed and the column Team was set as the index. Additionally, the regular season advanced statitistics were modified to exclude the columns for opponent _**eFG%, TOV%, ORB%, and FT/FGA**_.
 ## Methods
+- Tools:
+  - Python libraries NumPy, Pandas, Matplot for data processing and visualtization
+  - Google Colab notebooks for sharing and running code
+  - Scikit-learn machine learning processes:
+    - Train Test Split
+    - Cross Validation
+    - Linear Regression
+    - Random Forest Regression
+    - Standard Scaler
+
 ## Results
 - Initially we determine a set of predictors relevant to an NBA team's success including field goal percentage and three-point field goal percentage. We are using these predictors to determine a team's predicted winning percentage. After splitting the data into training and testing sets we fit a linear regression model to the training set and plotted the results.
   
