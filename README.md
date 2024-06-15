@@ -14,9 +14,11 @@ The following measures were undertaken to implement feature engineering:
 ## Methods
 ## Results
 - Initially we determine a set of predictors relevant to an NBA team's success including field goal percentage and three-point field goal percentage. We are using these predictors to determine a team's predicted winning percentage. After splitting the data into training and testing sets we fit a linear regression model to the training set and plotted the results.
+  
 ![NBA_demo1](https://github.com/harisj739/CST383_TeamSSS_FinalProject/assets/126642844/ab5b6d5e-7533-49f3-9969-443e921dbdf9)
 
 - We also attempted to fit the data to a Random Forest Regression Model. However this resulted in increases to RMSE and a decrease in r-squared compared to our initial run in determining predicted winning percentage.
+  
 ![NBA_randomforest](https://github.com/harisj739/CST383_TeamSSS_FinalProject/assets/126642844/fd37d269-5846-4ed0-b18b-b36334d9fbe9)
 
 - After separating the teams into their respective conferences, we created new dataframes with the teams along with their predicted winning percentages. These were used to create a playoff simulation where we estimated which team would ultimately become NBA champion.
